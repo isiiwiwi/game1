@@ -1,0 +1,20 @@
+.btn{
+    height:100px;
+    width: 100px;
+    margin-left: 20px;
+}
+.boxs{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border: solid;
+    position: absolute;
+}
+.firstBox{
+    background-image: url("player1.png");
+    background-size: 100% 100%;
+}
+.villiain{
+    background-image: url("villiain.png");
+    background-size: 100% 100%;
+}
